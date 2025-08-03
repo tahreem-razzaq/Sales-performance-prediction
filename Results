@@ -1,0 +1,8 @@
+The complete analysis showed a very weak correlation between the given variables..yet a 0.5 correlation was found between monthly salary of the employees and their performance scores..the data also showed the dependence of performance on other variables in the data such as overtime hours, sick days,years at the company or experience at the company, work hours per week, team size, promotions and age. An interesting correlation between remote work hours and performance scores was also observed.. These overall observtions suggest that:
+1. The company has more people with low education and less people with higher education.
+2. The gender has no affect on performance
+3. People with higher salaries are more inclined to resigning.
+4. The education level and experience has no impact on the salary or just a minor impact.
+5. The greater the age, the lower the salary..yet the correlation is negligile.
+6. The more an employee works overtime, the more sick days he need.
+7. The model does predict the performance scores on the basis of salary, yet, it is not efficient in doing so. it can mispredict by a whole core point.
